@@ -1,0 +1,4 @@
+
+# ignore node modules
+/alx-rick-and-morty-app/node_modules/
+
